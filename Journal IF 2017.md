@@ -1,14 +1,3 @@
----
-layout: post
-title: Journal impact factor in 2017
-author: CY
-tags: [Paper]
-categories: [Biology]
-share: false
-image:
-  background: triangular.png 
----
-
 
 
 ## Journals related to my PhD research field 
