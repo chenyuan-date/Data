@@ -8,7 +8,7 @@
 | 34   | Journal of clinical oncology                   | 26.303   |
 | 64   | JAMA Oncology                                  | 20.871   |
 | 91   | Gut                                            | 17.016   |
-| 139  | Annals of oncology                             | 13.926   |
+| 139  | Annals of oncology (近几年疯长，小心)          | 13.926   |
 | 233  | Clinical cancer research                       | 10.199   |
 | 283  | Cancer research                                | 9.13     |
 | 332  | International journal of epidemiology          | 8.36     |
